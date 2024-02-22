@@ -2,12 +2,6 @@
 
 This is the repository for project 2 from the EPFL CS-433 ML course for which we use different Deep Learning and data engineering techniques for data segmentation of roads, using satellite images for Google Maps. 
 
-Our team is composed of :
-
-#### - Marin Cornuot - <marin.cornuot@epfl.ch>
-#### - Antoine Roger - <antoine.roger@epfl.ch>
-#### - Hadi Hammoud - <hadi.hammoud@epfl.ch>
-
 # Dependencies setup
 
 To get a working development environment, you can:
